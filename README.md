@@ -1,5 +1,5 @@
 # Sneaker Spot - Front-End Web Dev Project
-Sneaker Spot is your first university web development project, with a strong emphasis on front-end development. This project incorporates HTML, CSS, JavaScript, PHP, and a dash of Bootstrap. It's a virtual sneaker store where users can register, log in, explore sneakers, add them to a cart, and contact the administrators.
+Sneaker Spot is my first university web development project, with a strong emphasis on front-end development. This project incorporates HTML, CSS, JavaScript, PHP, and a dash of Bootstrap. It's a virtual sneaker store where users can register, log in, explore sneakers, add them to a cart, and contact the administrators.
 
 To run it locally, use XAMPP or WAMPSERVER. Let's dive into this dynamic front-end web experience!
 
