@@ -50,3 +50,4 @@ password (varchar)
 - Make sure to validate user inputs to enhance security and prevent data manipulation.
 - You can further customize the website's appearance and functionality by modifying the HTML, CSS, and JavaScript files as needed.
 - Regularly back up your database to prevent data loss.
+- Make sure the path of the images is correct.
