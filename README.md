@@ -45,6 +45,9 @@ password (varchar)
 - Log in to your account using the Login Page.
 - Browse the available sneakers on the Store Page and add items to your shopping cart.
 - Use the Contact Us Page to send inquiries or feedback.
+- ## Screenshots
+
+For a visual preview of SneakerSpot, please refer to the [Screenshots-SneakerSpot](Screenshots-SneakerSpot/) folder.
 
 ## Additional Notes
 - Make sure to validate user inputs to enhance security and prevent data manipulation.
